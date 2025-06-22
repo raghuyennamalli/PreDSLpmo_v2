@@ -3,8 +3,13 @@ Lytic polysaccharide monooxygenases (LPMOs) are redox enzymes in the oxidative c
 
 # Requirements
 Python 3.11 and above
+
 Numpy
+
 Pandas
+
 TensorFlow
+
 Node.js
+
 React.js
